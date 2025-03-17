@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
+title: How to change ourselves
+subtitle: Be Active
+author: Jiehong Lin
 categories: jekyll
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
