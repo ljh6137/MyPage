@@ -1,0 +1,92 @@
+---
+layout: post
+title: Welcome to Jekyll!
+subtitle: A awesome static site generator.
+author: Jeffrey
+categories: jekyll
+banner:
+  video: https://vjs.zencdn.net/v/oceans.mp4
+  loop: true
+  volume: 0.8
+  start_at: 8.5
+  image: https://bit.ly/3xTmdUP
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
+tags: jekyll theme yat
+sidebar: []
+---
+
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+## section 1
+
+# **🌟 随想录 🌟**
+
+---
+
+## **📅 日期**  
+_2025年3月17日_
+
+---
+
+## **🌍 今日主题**  
+_生活的节奏与内心的平静_
+
+---
+
+## **💭 随想**  
+
+生活就像一条河流，有时湍急，有时平缓。我们总是被忙碌推着向前，却很少停下来思考：**我们真正想要的是什么？**  
+
+最近，我开始尝试放慢脚步，给自己一些独处的时间。在这段时光里，我发现：  
+• **安静的力量**：在喧嚣中，安静是一种奢侈。它让我重新认识自己，找到内心的平衡。  
+• **小确幸**：一杯热茶、一本好书、一场夕阳，这些微不足道的小事，却能让心灵感到温暖。  
+• **当下的意义**：过去无法改变，未来难以预测，唯有**当下**才是我们真正拥有的。
+
+---
+
+## **🌈 今日感悟**  
+
+> “生活不是等待风暴过去，而是学会在雨中跳舞。”  
+
+我们无法控制生活的所有变量，但我们可以选择如何面对。**慢下来，感受生活，珍惜当下**，或许这就是最好的答案。
+
+---
+
+## **🎨 灵感碎片**  
+
+• 🍃 一片落叶，是秋天的信使，也是时间的见证。  
+• 🌟 夜晚的星空，提醒我宇宙的浩瀚与自己的渺小。  
+• 🌸 一朵花开，是生命的绽放，也是希望的象征。
+
+---
+
+## **📖 推荐阅读**  
+
+• 《瓦尔登湖》——亨利·大卫·梭罗  
+• 《当下的力量》——埃克哈特·托利  
+
+---
+
+## **🌿 明日计划**  
+
+1. 早起，看一场日出。  
+2. 读一本书，写下心得。  
+3. 与朋友分享今日的感悟。
+
+---
+
+## **💬 留言区**  
+
+_写下你的随想，与我分享你的故事吧！_
+
+---
+
+**🌙 晚安，愿你在梦中找到属于自己的宁静。**
+```
