@@ -3,7 +3,7 @@ layout: post
 title: How to change ourselves
 subtitle: Be Active
 author: Jiehong Lin
-categories: jekyll
+categories: 闲时随笔
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
